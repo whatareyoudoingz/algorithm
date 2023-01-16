@@ -35,5 +35,5 @@
 - [평균은 넘겠지](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4344.%E2%80%85%ED%8F%89%EA%B7%A0%EC%9D%80%E2%80%85%EB%84%98%EA%B2%A0%EC%A7%80)
 - [평균](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0)
 
-##0112 
+## 0112 
 - [정수 N개의 합](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15596.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85N%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9)
