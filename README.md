@@ -35,7 +35,9 @@
 - [평균은 넘겠지](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4344.%E2%80%85%ED%8F%89%EA%B7%A0%EC%9D%80%E2%80%85%EB%84%98%EA%B2%A0%EC%A7%80)
 - [평균](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0)
 
-## 0112 [5단계 clear!!]
+## 0112 
 - [정수 N개의 합](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15596.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85N%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9)
+
+## 0116 [5단계 clear!!]
 - [셀프넘버](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84) `공부과제:알고리즘을 함수로 구현하는 연습`
 - [한수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)
