@@ -39,4 +39,4 @@
 - [정수 N개의 합](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15596.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85N%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9)
 - [셀프넘버](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84)
 
-<span style='background-color: #ffdce0'>공부과제 : 알고리즘을 함수로 구현하는 연습</span>
+<span style='background-color: #ffdce0'>공부과제</span>
