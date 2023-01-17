@@ -1,5 +1,3 @@
-lis=[]
-for i in range(9):
-    lis.append(int(input()))
-print(max(lis))
-print(lis.index(max(lis))+1)
+number=[int(input()) for _ in range(9)]
+a=sorted(number)[-1]
+print(a,number.index(a)+1,sep="\n")
