@@ -11,3 +11,11 @@ for i in n:
             if i in value:
                 answer+=idx+1
 print(answer)
+
+## 다른 풀이 (출처 : 백준, 아이디 : rogerchoo)
+word = input()
+time = 0
+for char in word:
+    time += (ord(char) + 1) // 3 - 19 
+    if char in 'SVYZ': time -= 1
+print(time)
