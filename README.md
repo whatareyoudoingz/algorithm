@@ -67,4 +67,7 @@
 
 ## 0119
 - [회사에 있는 사람](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/7785.%E2%80%85%ED%9A%8C%EC%82%AC%EC%97%90%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%8C)
-- [ 
+- [나무 조각](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2947.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%A1%B0%EA%B0%81)
+- [홀수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2576.%E2%80%85%ED%99%80%EC%88%98)
+- [학점계산](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2754.%E2%80%85%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0)
+- [숫자의 개수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2577.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
