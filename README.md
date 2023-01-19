@@ -64,4 +64,7 @@
 - [크로아티아 알파벳](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3)
 - [다이얼](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC)
 - [부녀회장이 될테야](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2775.%E2%80%85%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%E2%80%85%EB%90%A0%ED%85%8C%EC%95%BC)
-- 
+
+## 0119
+- [회사에 있는 사람](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/7785.%E2%80%85%ED%9A%8C%EC%82%AC%EC%97%90%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%8C)
+- [ 
