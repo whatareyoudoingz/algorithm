@@ -1,7 +1,8 @@
+import sys
 n=int(input())
 dic={}
 for _ in range(n):
-    name, active=input().split()
+    name, active=sys.stdin.readline().split()
     if name not in dic:
         dic[name]=active
     else:
