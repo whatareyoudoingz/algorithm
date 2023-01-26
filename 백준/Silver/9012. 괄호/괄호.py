@@ -1,7 +1,5 @@
 for _ in range(int(input())):
-    string=input()
-    lis=[]
-    i=0
+    string, lis, i =input(), [], 0
     while i != len(string):
         if string[i] == '(':
             lis.append(string[i])
