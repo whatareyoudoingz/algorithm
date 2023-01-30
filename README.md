@@ -102,7 +102,7 @@
 ## 0126
 - [삼각형 외우기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10101.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%99%B8%EC%9A%B0%EA%B8%B0)
 - [세탁소 사장 동혁](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2720.%E2%80%85%EC%84%B8%ED%83%81%EC%86%8C%E2%80%85%EC%82%AC%EC%9E%A5%E2%80%85%EB%8F%99%ED%98%81)
-- [피시방 알바]](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1453.%E2%80%85%ED%94%BC%EC%8B%9C%EB%B0%A9%E2%80%85%EC%95%8C%EB%B0%94)
+- [피시방 알바](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1453.%E2%80%85%ED%94%BC%EC%8B%9C%EB%B0%A9%E2%80%85%EC%95%8C%EB%B0%94)
 - [제로](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C)
 - [카드1](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2161.%E2%80%85%EC%B9%B4%EB%93%9C1)
 - [괄호](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8)
@@ -118,4 +118,4 @@
 - [나는 요리사다](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2953.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4)
 - [직사각형 네개의 합집합의 면적 구하기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2669.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%84%A4%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [이상합 곱셈](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1225.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B3%B1%EC%85%88)
-=> 수학적 규칙을 찾아보자!!!!
+=> `수학적 규칙을 찾아보자!!!!`
