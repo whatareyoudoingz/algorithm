@@ -119,3 +119,9 @@
 - [직사각형 네개의 합집합의 면적 구하기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2669.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%84%A4%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [이상합 곱셈](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1225.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B3%B1%EC%85%88)
 => `수학적 규칙을 찾아보자!!!!`
+
+## 0131
+- [세로 읽기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)
+- [별 찍기-4](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2441.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%854)
+- [대표값](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2592.%E2%80%85%EB%8C%80%ED%91%9C%EA%B0%92)
+- [박스](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9455.%E2%80%85%EB%B0%95%EC%8A%A4)
