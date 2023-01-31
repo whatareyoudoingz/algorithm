@@ -1,6 +1,7 @@
+import sys
 string=[]
 for _ in range(5):
-    n=input()
+    n=sys.stdin.readline().strip()
     string.append(list(n)+[-1]*(15-len(n)))
 
 for j in range(15):
