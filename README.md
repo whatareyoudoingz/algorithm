@@ -47,7 +47,7 @@
 
 
 ## 0116 [5단계 clear!!]
-- [셀프넘버](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84) `공부과제:알고리즘을 함수로 구현하는 연습`
+- [셀프넘버](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84) => `알고리즘을 함수로 구현하는 연습을 해보아요`
 - [한수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)
 - [아스키 코드](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11654.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C)
 - [평균 점수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10039.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%A0%90%EC%88%98)
@@ -118,7 +118,7 @@
 - [나는 요리사다](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2953.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4)
 - [직사각형 네개의 합집합의 면적 구하기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2669.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%84%A4%EA%B0%9C%EC%9D%98%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [이상합 곱셈](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1225.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B3%B1%EC%85%88)
-=> `수학적 규칙을 찾아보자!!!!`
+=> `수학적 규칙을 찾는 연습을 해보자!!!!`
 
 ## 0131
 - [세로 읽기](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)
