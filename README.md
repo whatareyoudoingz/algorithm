@@ -125,3 +125,10 @@
 - [별 찍기-4](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2441.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%854)
 - [대표값](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2592.%E2%80%85%EB%8C%80%ED%91%9C%EA%B0%92)
 - [박스](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9455.%E2%80%85%EB%B0%95%EC%8A%A4)
+
+## 0201
+- [가장 큰 금민수](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1526.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EA%B8%88%EB%AF%BC%EC%88%98)
+- [블랙잭](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)
+- [점수 집계](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9076.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EC%A7%91%EA%B3%84)
+- [영화감독 숌](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)
+- [누울 자리를 찾아라](https://github.com/whatareyoudoingz/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1652.%E2%80%85%EB%88%84%EC%9A%B8%E2%80%85%EC%9E%90%EB%A6%AC%EB%A5%BC%E2%80%85%EC%B0%BE%EC%95%84%EB%9D%BC)
